@@ -503,3 +503,28 @@ footer p {
     color: #fff;
 }
 /* End Footer */
+
+/* Developer Credit */
+.developerCredit {
+    text-align: center;
+    padding: 10px 0;
+    background: #111;
+}
+
+.developerCredit p {
+    font-size: 14px;
+    letter-spacing: 1px;
+    color: #e0e0e0;  /* Light gray color for better visibility */
+}
+
+.developerCredit a {
+    color: #ff0157;  /* Keeping the accent color for the link */
+    text-decoration: none;
+    font-weight: 500;
+    transition: 0.3s ease;
+}
+
+.developerCredit a:hover {
+    color: #fff;
+    text-decoration: underline;
+}
