@@ -101,7 +101,7 @@ Responsive-Site/
 
 ## 👨‍💻 Developer
 
-Developed by [Ahmed Gamal](https://ahmedgamal.dev)
+Developed by [Ahmed Gamal](https://www.ahmedgamal.dev)
 
 ## 📄 License
 
